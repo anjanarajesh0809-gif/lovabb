@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+python-multipart
+razorpay
+httpx
